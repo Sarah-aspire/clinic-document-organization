@@ -1,1 +1,12 @@
 
+record_id,department,document_type,status,last_updated,responsible_staff
+1001,Reception,Appointment List,Completed,2025-05-01,Anna Keller
+1002,Billing,Invoice,Pending,2025-05-02,Michael Braun
+1003,Laboratory,Test Report,Completed,2025-05-03,Sarah Klein
+1004,Reception,Patient Form,Missing,2025-05-03,Anna Keller
+1005,Administration,Insurance Document,Pending,2025-05-04,Thomas Becker
+1006,Laboratory,Sample Tracking,Completed,2025-05-04,Sarah Klein
+1007,Billing,Invoice,Duplicate,2025-05-05,Michael Braun
+1008,Reception,Appointment List,Completed,2025-05-06,Anna Keller
+1009,Administration,Consent Form,Missing,2025-05-06,Thomas Becker
+1010,Laboratory,Test Report,Completed,2025-05-07,Sarah Klein
